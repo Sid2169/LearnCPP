@@ -34,3 +34,4 @@ The repository is a personal learning log. Programs are intentionally small and 
 - **learning exercises** — Keep the related setup steps aligned with the current scripts.
 - **comments** — Keep the terminology consistent with the rest of the project.
 - **console input** — Verify the change in both development and production builds.
+- **hello world programs** — Check the required environment values before deploying.
