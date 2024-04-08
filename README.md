@@ -32,3 +32,4 @@ The repository is a personal learning log. Programs are intentionally small and 
 
 - **debugging output** — Verify that links and references still resolve.
 - **learning exercises** — Keep the related setup steps aligned with the current scripts.
+- **comments** — Keep the terminology consistent with the rest of the project.
