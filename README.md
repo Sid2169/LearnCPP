@@ -35,3 +35,4 @@ The repository is a personal learning log. Programs are intentionally small and 
 - **comments** — Keep the terminology consistent with the rest of the project.
 - **console input** — Verify the change in both development and production builds.
 - **hello world programs** — Check the required environment values before deploying.
+- **hello world programs** — Keep commands copy-pasteable for new contributors.
