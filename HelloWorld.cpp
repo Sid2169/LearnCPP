@@ -31,7 +31,7 @@ int main()
   cin >> x; // Get user input from the keyboard 
   cout << "Type a double number :";
   cin >> y; 
-  cout << "Your sum is :"<< x << " and " << y << "\n";
+  cout << "Your sum is :"<< x+y << "\n";
 
   string greeting = "Hello";
   cout << greeting << "\n";

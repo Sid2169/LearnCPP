@@ -1,9 +1,9 @@
-# ... (Rest of your Makefile)
-
-# Source files - Automatic detection of .cpp files
+CC = g++
+CFLAGS = -Wall -std=c++11
 SOURCES = $(wildcard *.cpp)
+TARGETS = $(SOURCES:.cpp=)
 
-# Object files created from source 
-OBJECTS = $(SOURCES:.cpp=.o)
+all: $(TARGETS)
 
-# ... (Rest of your Makefile)
+%: %.cpp
+	$(CC) $(CFLAGS) -o $@ $<
