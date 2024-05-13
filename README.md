@@ -36,3 +36,4 @@ The repository is a personal learning log. Programs are intentionally small and 
 - **console input** — Verify the change in both development and production builds.
 - **hello world programs** — Check the required environment values before deploying.
 - **hello world programs** — Keep commands copy-pasteable for new contributors.
+- **Makefile builds** — Document any manual steps that cannot be automated.
