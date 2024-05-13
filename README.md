@@ -37,3 +37,4 @@ The repository is a personal learning log. Programs are intentionally small and 
 - **hello world programs** — Check the required environment values before deploying.
 - **hello world programs** — Keep commands copy-pasteable for new contributors.
 - **Makefile builds** — Document any manual steps that cannot be automated.
+- **source organization** — Add a screenshot or example when it clarifies the workflow.
