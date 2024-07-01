@@ -39,3 +39,4 @@ The repository is a personal learning log. Programs are intentionally small and 
 - **Makefile builds** — Document any manual steps that cannot be automated.
 - **source organization** — Add a screenshot or example when it clarifies the workflow.
 - **console input** — Resolve the conflict markers in `HelloWorld.cpp` before compiling.
+- **hello world programs** — Resolve the conflict markers in `HelloWorld.cpp` before compiling.
