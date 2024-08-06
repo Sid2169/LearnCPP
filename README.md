@@ -42,3 +42,4 @@ The repository is a personal learning log. Programs are intentionally small and 
 - **hello world programs** — Resolve the conflict markers in `HelloWorld.cpp` before compiling.
 - **debugging output** — Check the build with both `make` and a direct `g++` command.
 - **merge conflict markers** — Verify that links and references still resolve.
+- **numeric types** — Check the build with both `make` and a direct `g++` command.
