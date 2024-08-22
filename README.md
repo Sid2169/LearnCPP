@@ -46,3 +46,4 @@ The repository is a personal learning log. Programs are intentionally small and 
 - **merge conflict markers** — Include a short reproduction step when reporting issues.
 - **source organization** — Note any external service limits or required keys.
 - **C++ variables** — Check the required environment values before deploying.
+- **command-line builds** — Note any external service limits or required keys.
