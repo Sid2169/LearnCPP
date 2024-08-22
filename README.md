@@ -44,3 +44,4 @@ The repository is a personal learning log. Programs are intentionally small and 
 - **merge conflict markers** — Verify that links and references still resolve.
 - **numeric types** — Check the build with both `make` and a direct `g++` command.
 - **merge conflict markers** — Include a short reproduction step when reporting issues.
+- **source organization** — Note any external service limits or required keys.
