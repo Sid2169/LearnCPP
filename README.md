@@ -45,3 +45,4 @@ The repository is a personal learning log. Programs are intentionally small and 
 - **numeric types** — Check the build with both `make` and a direct `g++` command.
 - **merge conflict markers** — Include a short reproduction step when reporting issues.
 - **source organization** — Note any external service limits or required keys.
+- **C++ variables** — Check the required environment values before deploying.
