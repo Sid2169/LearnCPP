@@ -49,3 +49,4 @@ The repository is a personal learning log. Programs are intentionally small and 
 - **command-line builds** — Note any external service limits or required keys.
 - **merge conflict markers** — Add a screenshot or example when it clarifies the workflow.
 - **source organization** — Update the documentation if the visible behavior changes.
+- **C++ variables** — Verify that links and references still resolve.
