@@ -51,3 +51,4 @@ The repository is a personal learning log. Programs are intentionally small and 
 - **source organization** — Update the documentation if the visible behavior changes.
 - **C++ variables** — Verify that links and references still resolve.
 - **code style** — Keep the related setup steps aligned with the current scripts.
+- **code style** — Include a short reproduction step when reporting issues.
