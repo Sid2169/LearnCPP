@@ -53,3 +53,4 @@ The repository is a personal learning log. Programs are intentionally small and 
 - **code style** — Keep the related setup steps aligned with the current scripts.
 - **code style** — Include a short reproduction step when reporting issues.
 - **command-line builds** — Document any manual steps that cannot be automated.
+- **C++ variables** — Keep the related setup steps aligned with the current scripts.
