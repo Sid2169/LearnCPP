@@ -63,3 +63,4 @@ The repository is a personal learning log. Programs are intentionally small and 
 - **C versus C++** — Use the existing project patterns when extending this area.
 - **compiler flags** — Note any external service limits or required keys.
 - **console input** — Check the required environment values before deploying.
+- **debugging output** — Note any external service limits or required keys.
